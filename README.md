@@ -1,0 +1,106 @@
+# Lista de Exercícios Python
+
+## Sobre
+
+Este repositório contém a resolução de exercícios e desafios desenvolvidos em Python abordando conceitos fundamentais de programação, estruturas de dados, manipulação de arquivos, NumPy, Pandas e análise de dados.
+
+## Atividades
+
+### Desafio 1 - Análise de Dados de Filmes (IMDb)
+
+Utilização do conjunto de dados `movie_metadata.csv` para realizar análises exploratórias utilizando Pandas e NumPy, incluindo tratamento de valores ausentes, cálculo de estatísticas, categorização de filmes por duração, consultas em dados tabulares e visualização gráfica.
+
+### Problema 1 - Taxa de Serviço
+
+Cálculo do valor total de uma conta de restaurante considerando taxa de serviço de 10%.
+
+### Problema 2 - Conta de Energia
+
+Cálculo do valor da conta de energia elétrica considerando tipo de instalação, consumo e impostos.
+
+### Problema 3 - Média da Turma
+
+Leitura das notas de cinco alunos, cálculo da média da turma e verificação da situação do primeiro aluno.
+
+### Problema 4 - Promoção Relâmpago
+
+Simulação da redução diária de preço de um produto durante sete dias consecutivos.
+
+### Problema 5 - Melhor Combustível
+
+Comparação entre os preços da gasolina e do etanol para determinar a opção economicamente mais vantajosa.
+
+### Problema 6 - Lançamento de Dados
+
+Geração de lançamentos aleatórios de um dado e cálculo de estatísticas utilizando listas.
+
+### Problema 7 - Estatísticas Futebolísticas
+
+Armazenamento de resultados de partidas entre Avaí e Figueirense utilizando dicionários e cálculo de estatísticas.
+
+### Problema 7.1 - Análise de Dados com AWS Academy
+
+Versão alternativa do Problema 7 utilizando exclusivamente arrays NumPy para armazenamento dos resultados das partidas e cálculo das estatísticas.
+
+### Problema 8 - Temperaturas Anuais
+
+Registro das temperaturas médias dos meses do ano utilizando dicionários e identificação das temperaturas máxima e mínima.
+
+### Problema 9 - Python Comprehensions
+
+Geração de números aleatórios e cálculo dos quadrados das diferenças em relação à média utilizando comprehensions.
+
+### Problema 10 - Extração de E-mails
+
+Leitura de arquivo texto, extração de endereços de e-mail e geração de arquivo de saída sem repetições.
+
+### Problema 11 - Tabuada com NumPy
+
+Criação de uma matriz NumPy contendo a tabuada do 1 ao 10.
+
+### Problema 12 - Estatísticas Futebolísticas com NumPy
+
+Versão do Problema 7 utilizando exclusivamente arrays NumPy para armazenamento e processamento dos resultados.
+
+### Problema 13 - Dataset Wine com NumPy
+
+Análise do conjunto de dados Wine utilizando NumPy para obtenção de estatísticas sobre os tipos de vinho e teor alcoólico.
+
+### Problema 14 - Dataset Wine com Pandas
+
+Análise do conjunto de dados Wine utilizando Pandas para obtenção de estatísticas sobre os tipos de vinho e teor alcoólico.
+
+## Tecnologias Utilizadas
+
+* Python 3
+* NumPy
+* Pandas
+* Matplotlib
+* Jupyter Notebook
+
+## Estrutura do Repositório
+
+```text
+.
+├── desafio01.ipynb
+├── problema01.ipynb
+├── problema02.ipynb
+├── problema03.ipynb
+├── problema04.ipynb
+├── problema05.ipynb
+├── problema06.ipynb
+├── problema07.ipynb
+├── problema07_1.ipynb
+├── problema08.ipynb
+├── problema09.ipynb
+├── problema10.ipynb
+├── problema11.ipynb
+├── problema12.ipynb
+├── problema13.ipynb
+├── problema14.ipynb
+└── README.md
+```
+
+## Autor
+
+Arthur Cechinel Nunes
