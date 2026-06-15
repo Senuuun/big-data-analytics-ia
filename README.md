@@ -1,14 +1,16 @@
-# Lista de Exercícios Python
+# Exercícios Python — Big Data, Analytics e Inteligência Artificial
 
 ## Sobre
 
-Este repositório contém a resolução de exercícios e desafios desenvolvidos em Python abordando conceitos fundamentais de programação, estruturas de dados, manipulação de arquivos, NumPy, Pandas e análise de dados.
+Este repositório contém a resolução de exercícios e desafios desenvolvidos em **Python** durante estudos relacionados a **Big Data, Analytics e Inteligência Artificial**.
+
+As atividades abordam conceitos fundamentais de programação, estruturas de dados, manipulação de arquivos, NumPy, Pandas, análise de dados e visualização gráfica.
 
 ## Atividades
 
 ### Desafio 1 - Análise de Dados de Filmes (IMDb)
 
-Utilização do conjunto de dados `movie_metadata.csv` para realizar análises exploratórias utilizando Pandas e NumPy, incluindo tratamento de valores ausentes, cálculo de estatísticas, categorização de filmes por duração, consultas em dados tabulares e visualização gráfica.
+Utilização do conjunto de dados `movie_metadata.csv` para realizar análises exploratórias com Pandas e NumPy, incluindo tratamento de valores ausentes, cálculo de estatísticas, categorização de filmes por duração, consultas em dados tabulares e visualização gráfica.
 
 ### Problema 1 - Taxa de Serviço
 
@@ -38,9 +40,9 @@ Geração de lançamentos aleatórios de um dado e cálculo de estatísticas uti
 
 Armazenamento de resultados de partidas entre Avaí e Figueirense utilizando dicionários e cálculo de estatísticas.
 
-### Problema 7.1 - Análise de Dados com AWS Academy
+### Problema 7.1 - Estatísticas Futebolísticas com NumPy
 
-Versão alternativa do Problema 7 utilizando exclusivamente arrays NumPy para armazenamento dos resultados das partidas e cálculo das estatísticas.
+Versão alternativa do Problema 7 utilizando arrays NumPy para armazenamento dos resultados das partidas e cálculo das estatísticas.
 
 ### Problema 8 - Temperaturas Anuais
 
@@ -60,7 +62,7 @@ Criação de uma matriz NumPy contendo a tabuada do 1 ao 10.
 
 ### Problema 12 - Estatísticas Futebolísticas com NumPy
 
-Versão do Problema 7 utilizando exclusivamente arrays NumPy para armazenamento e processamento dos resultados.
+Análise de resultados futebolísticos utilizando arrays NumPy para armazenamento e processamento dos dados.
 
 ### Problema 13 - Dataset Wine com NumPy
 
@@ -70,7 +72,7 @@ Análise do conjunto de dados Wine utilizando NumPy para obtenção de estatíst
 
 Análise do conjunto de dados Wine utilizando Pandas para obtenção de estatísticas sobre os tipos de vinho e teor alcoólico.
 
-## Tecnologias Utilizadas
+## Tecnologias utilizadas
 
 * Python 3
 * NumPy
@@ -78,7 +80,7 @@ Análise do conjunto de dados Wine utilizando Pandas para obtenção de estatís
 * Matplotlib
 * Jupyter Notebook
 
-## Estrutura do Repositório
+## Estrutura do repositório
 
 ```text
 .
@@ -99,8 +101,6 @@ Análise do conjunto de dados Wine utilizando Pandas para obtenção de estatís
 ├── problema13.ipynb
 ├── problema14.ipynb
 └── README.md
-```
-
 ## Autor
 
 Arthur Cechinel Nunes
