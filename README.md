@@ -12,6 +12,28 @@ As atividades abordam conceitos fundamentais de programação, estruturas de dad
 
 Utilização do conjunto de dados `movie_metadata.csv` para realizar análises exploratórias com Pandas e NumPy, incluindo tratamento de valores ausentes, cálculo de estatísticas, categorização de filmes por duração, consultas em dados tabulares e visualização gráfica.
 
+### Desafio 2 - Perfil do Eleitorado 2022
+
+Análise do conjunto de dados `perfil_eleitorado_2022.csv`, contendo informações sobre o perfil do eleitorado brasileiro nas eleições de 2022.
+
+Foram obtidas informações como:
+
+* Quantidade de registros do dataset;
+* Quantidade total de eleitores;
+* Quantidade e percentual de eleitores por sexo;
+* Quantidade e percentual de eleitores facultativos;
+* Quantidade e percentual de eleitores com deficiência;
+* Distribuição de eleitores por estado civil;
+* Distribuição de eleitores por escolaridade;
+* Distribuição de eleitores por UF;
+* Distribuição de eleitores por município;
+* Percentual de eleitores com biometria.
+
+O arquivo `.csv` não foi enviado ao repositório por possuir tamanho elevado.
+O dataset pode ser acessado pelo link abaixo:
+
+[Baixar dataset perfil_eleitorado_2022.csv](https://drive.google.com/file/d/1WnTNXntGKTu1eh8s4GISYF0vvTOo5vry/view?usp=sharing)
+
 ### Problema 1 - Taxa de Serviço
 
 Cálculo do valor total de uma conta de restaurante considerando taxa de serviço de 10%.
@@ -84,7 +106,8 @@ Análise do conjunto de dados Wine utilizando Pandas para obtenção de estatís
 
 ```text
 .
-├── desafio01.ipynb
+├── desafio1.ipynb
+├── desafio2.ipynb
 ├── problema01.ipynb
 ├── problema02.ipynb
 ├── problema03.ipynb
